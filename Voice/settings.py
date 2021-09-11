@@ -27,7 +27,7 @@ SECRET_KEY = 'qzm-@^am@r4^as*=^dyx1@mciy$ba43jbi@z=b)jk*jed(q@jj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['speech-analyst.herokuapp.com']
 
 
 # Application definition
